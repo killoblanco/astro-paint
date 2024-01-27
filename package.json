@@ -1,0 +1,11 @@
+{
+  "name": "astro-paint",
+  "version": "0.0.0",
+  "description": "Astro components collection that you can copy and paste into your own projects. Fully customizable and themeable. Open source and free forever.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
